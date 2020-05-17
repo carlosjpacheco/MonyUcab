@@ -1,0 +1,13 @@
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\bin\Debug\netcoreapp3.1\MoneyUcab.exe
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\bin\Debug\netcoreapp3.1\MoneyUcab.deps.json
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\bin\Debug\netcoreapp3.1\MoneyUcab.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\bin\Debug\netcoreapp3.1\MoneyUcab.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\bin\Debug\netcoreapp3.1\MoneyUcab.dll
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\bin\Debug\netcoreapp3.1\MoneyUcab.pdb
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.dll
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.pdb
+C:\Users\carlo\OneDrive\Desktop\Semestre\Desarrollo\Proyecto\MoneyUcab\obj\Debug\netcoreapp3.1\MoneyUcab.genruntimeconfig.cache
